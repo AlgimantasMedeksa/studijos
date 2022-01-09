@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\SestasProjektas\SestasProjektas\bin\Debug\SestasProjektas.exe.config
+C:\Users\AM\source\repos\SestasProjektas\SestasProjektas\bin\Debug\SestasProjektas.exe
+C:\Users\AM\source\repos\SestasProjektas\SestasProjektas\bin\Debug\SestasProjektas.pdb
+C:\Users\AM\source\repos\SestasProjektas\SestasProjektas\obj\Debug\SestasProjektas.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\SestasProjektas\SestasProjektas\obj\Debug\SestasProjektas.exe
+C:\Users\AM\source\repos\SestasProjektas\SestasProjektas\obj\Debug\SestasProjektas.pdb
+C:\Users\AM\source\repos\SestasProjektas\SestasProjektas\obj\Debug\SestasProjektas.csproj.AssemblyReference.cache
